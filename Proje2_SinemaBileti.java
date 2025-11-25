@@ -1,5 +1,12 @@
+/**
+ * Ad Soyad: [Arda Özcan Çifci]
+ * Öğrenci No: [250542012]
+ * Proje: [Proje1_NorSistemi.java]
+ * Tarih: [25.11.2025]
+ */
 
 import java.util.Scanner;
+
 
 public class Proje2_SinemaBileti{
 
@@ -133,3 +140,4 @@ public class Proje2_SinemaBileti{
         System.out.println("TOPLAM TUTAR: " + odenecekTutar + " TL");
     }
 }
+
