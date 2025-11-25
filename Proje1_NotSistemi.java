@@ -1,3 +1,9 @@
+/**
+ * Ad Soyad: [Arda Özcan Çifci]
+ * Öğrenci No: [250542012]
+ * Proje: [Proje1_NorSistemi.java]
+ * Tarih: [25.11.2025]
+ */
 
 import java.util.Scanner;
 
@@ -69,3 +75,4 @@ public class Proje1_NotSistemi {
         return ortalama >= 40 && ortalama < 50;
     }
 }
+
