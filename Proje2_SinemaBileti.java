@@ -1,7 +1,7 @@
 /**
  * Ad Soyad: [Arda Özcan Çifci]
  * Öğrenci No: [250542012]
- * Proje: [Proje1_NorSistemi.java]
+ * Proje: [Proje2_SinamaBileti.java]
  * Tarih: [25.11.2025]
  */
 
@@ -140,4 +140,5 @@ public class Proje2_SinemaBileti{
         System.out.println("TOPLAM TUTAR: " + odenecekTutar + " TL");
     }
 }
+
 
