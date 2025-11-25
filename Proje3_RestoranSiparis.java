@@ -1,5 +1,14 @@
+/**
+ * Ad Soyad: [Arda Özcan Çifci]
+ * Öğrenci No: [250542012]
+ * Proje: [Proje3_RestoranSiparis.java]
+ * Tarih: [25.11.2025]
+ */
+
 
 import java.util.Scanner;
+
+
 
 public class Proje3_RestoranSiparis{
 
@@ -147,3 +156,4 @@ public class Proje3_RestoranSiparis{
         return tutar * 0.10;
     }
 }
+
